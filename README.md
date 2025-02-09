@@ -1,13 +1,3 @@
-# **Marketplace**
-
-![React Native](https://img.shields.io/badge/-React_Native-blue) ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-orange) ![Zod](https://img.shields.io/badge/-Zod-yellow) 
-
-![Marketplace](https://github.com/leleoaraxa/zygmunt-bauman)
-
-## Descrição do Projeto
-
-Marketplace é um projeto desenvolvido como parte do MBA Rocketseat Full-stack modulo Desenvolvimento Mobile.
-
 ## Tecnologias Utilizadas
 
 - Expo
